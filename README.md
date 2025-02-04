@@ -21,6 +21,17 @@ This repository contains **7,000+ Dark Web links**. These links provide access t
 
 ---
 
+🔑 Password
+
+The repository is password-protected for security reasons.
+
+📩 To get the password, message me on Telegram:
+➡️ t.me/n3tw0rkh4x0r
+
+Only request the password if you understand the risks involved in accessing the Dark Web.
+
+---
+
 ## ⚠️ Disclaimer  
 
 This repository is strictly for **educational and research purposes**. I **do not** promote, support, or encourage any illegal activities.  
