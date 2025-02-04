@@ -21,7 +21,7 @@ This repository contains **7,000+ Dark Web links**. These links provide access t
 
 ---
 
-🔑 Password
+## 🔑 Password
 
 The repository is password-protected for security reasons.
 
